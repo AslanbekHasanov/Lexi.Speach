@@ -1,0 +1,6 @@
+@Lexi.Speach.Api_HostAddress = http://localhost:5096
+
+GET {{Lexi.Speach.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
